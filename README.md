@@ -6,6 +6,6 @@
 
 2- Activate the isolated environment
 
-3- Install libraries: ```pip install -r requirement```
+3- Install libraries: ```pip install -r requirements.txt```
 
 4- Run program: ```python app/main.py```
